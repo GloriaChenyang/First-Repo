@@ -1,5 +1,9 @@
 Hello World!
+<<<<<<< HEAD
 Bye bye!
 Hello
 What?
+=======
+
+>>>>>>> parent of b8aa0ff... Seventh Commit
 Hello Main Branch?
